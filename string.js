@@ -8,5 +8,3 @@ const stringLength = (string) => {
 }
 
 module.exports = stringLength
-
-// console.log(stringLength('majestyjjkhkjhkjh'));
